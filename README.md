@@ -1,6 +1,6 @@
 # 🎨 Portofolio Pribadi — Azhiz Krishna Ariyaduta
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-gold?style=flat-square)](https://ozeeleon.github.io/portofolio_DAMP)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-gold?style=flat-square)](https://ozeeleon.github.io/azhiz-ariyaduta-portofolio-DAMP/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-black?logo=github&style=flat-square)](https://pages.github.com)
 
 > Website portofolio pribadi yang dirancang dengan memperhatikan prinsip-prinsip UI/UX Design modern.
@@ -79,7 +79,7 @@ npx serve .
 Website dihosting menggunakan **GitHub Pages**:
 1. Push ke branch `main`
 2. Aktifkan GitHub Pages di Settings → Pages → Source: `main`
-3. Website otomatis tersedia di `https://username.github.io/portfolio`
+3. Website otomatis tersedia di `https://ozeeleon.github.io/azhiz-ariyaduta-portofolio-DAMP/`
 
 ## 📝 Informasi Tugas
 
@@ -89,4 +89,4 @@ Website dihosting menggunakan **GitHub Pages**:
 
 ---
 
-<p align="center">Dibuat dengan ❤️ di Malang, Jawa Timur</p>
+<p align="center">Malang, Jawa Timur</p>
